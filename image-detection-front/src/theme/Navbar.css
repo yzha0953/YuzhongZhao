@@ -1,0 +1,33 @@
+.navbar {
+  width: 100%; /* Full width */
+  background-color: #3f68ab;
+  padding: 12px 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  position: fixed; /* Keeps navbar fixed at the top */
+  top: 0; /* Align to top */
+  left: 0; /* Align to left */
+  z-index: 1000; /* Ensures it's above other content */
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: space-around; /* Evenly space links */
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item, .nav-button {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  transition: background-color 0.3s, color 0.3s;
+  border: none; /* Remove default button border */
+  background: none; /* Remove default button background */
+  cursor: pointer; /* Add pointer cursor to button */
+}
+
+.nav-item:hover, .nav-button:hover {
+  background-color: #163566;
+  color: #FFF;
+}
