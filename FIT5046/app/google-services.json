@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833532586263",
+    "project_id": "plantease-ad899",
+    "storage_bucket": "plantease-ad899.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833532586263:android:d1b31d355e295be920ef52",
+        "android_client_info": {
+          "package_name": "com.example.a5046"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833532586263-g1qkqlh0vlfgsb5rqm7cu67uv4bveitj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a5046",
+            "certificate_hash": "5564d48418ed018e5681241ed2e02ea2e5ac5c88"
+          }
+        },
+        {
+          "client_id": "833532586263-kipb2jf4ds59rhtk0bl21qml8a24q85h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjE2ZJ8oB0VSRboCoqxZrtlsWSLj0VBBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833532586263-kipb2jf4ds59rhtk0bl21qml8a24q85h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
