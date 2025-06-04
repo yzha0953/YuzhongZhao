@@ -29,3 +29,5 @@ coverage
 
 *.tsbuildinfo
 .runtimeconfig.json
+
+.env

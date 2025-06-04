@@ -14,9 +14,9 @@ const sgMail = require("@sendgrid/mail");
 
 admin.initializeApp();
 
-sgMail.setApiKey(
-    "[REMOVED]",
-);
+require("dotenv").config(); 
+
+sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
 exports.sendBulkEmail = functions.https.onRequest((req, res) => {
   cors(req, res, () => {
