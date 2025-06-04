@@ -1,0 +1,15 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "name": "Health Screening",
+        "description": "Comprehensive health screenings tailored for Indigenous communities to detect and prevent common health issues early."
+      },
+      {
+        "id": 2,
+        "name": "Cultural Awareness Training",
+        "description": "Programs designed to educate healthcare providers about the cultural sensitivities and specific needs of Indigenous patients."
+      }
+    ]
+  }
+  
