@@ -2,6 +2,13 @@
 
 **PlantEase** is a smart gardening Android application designed to help users—especially beginner gardeners—manage plant care efficiently. With weather-based reminders, intuitive plant tracking, and visual reports, PlantEase provides a personalized and data-driven gardening experience.
 
+## Personal Contribution
+
+This project was developed collaboratively. I was responsible for:
+- Designing and implementing the **Add Plant** screen
+- Form with image upload, dropdowns, DatePicker
+- Data validation and dual sync with Room and Firestore
+- Local/remote data integration and offline support
 ---
 ## 🌟 Key Features
 
